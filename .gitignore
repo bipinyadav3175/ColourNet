@@ -1,0 +1,7 @@
+__pycache__
+archive
+converted/*
+grayscale/*
+original/*
+create_dataset.py
+ubyte_to_img.py
